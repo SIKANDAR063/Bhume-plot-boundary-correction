@@ -1,3 +1,8 @@
+gpt link ->https://chatgpt.com/share/6a2edcce-6b20-83e8-8f37-13380056278c
+another chat link -> https://claude.ai/share/1c0b17aa-5c2c-49de-8289-ab8969fcc3e5
+
+
+
 # 🗺️ BhuMe Engineering 
 
 > **"For each land plot, decide whether the official boundary can be nudged onto the real field, and if so, where it should go."**

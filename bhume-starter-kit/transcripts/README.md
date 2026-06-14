@@ -1,6 +1,6 @@
 gpt link ->https://chatgpt.com/share/6a2edcce-6b20-83e8-8f37-13380056278c
-another chat link -> https://claude.ai/share/1c0b17aa-5c2c-49de-8289-ab8969fcc3e5
-
+claude chat link -> https://claude.ai/share/1c0b17aa-5c2c-49de-8289-ab8969fcc3e5
+deepseek chat link -> https://chat.deepseek.com/share/9nt0fniikvajvfl4z1
 
 
 # 🗺️ BhuMe Engineering 
